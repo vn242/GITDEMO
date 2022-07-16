@@ -1,6 +1,6 @@
 #include<iostream>
 using namespace std;
 int main(){
-cout << "vannguyen";
-cout << "fukk "
+cout << "vannguyen" << endl;
+cout << "fukk " << endl;
 }
